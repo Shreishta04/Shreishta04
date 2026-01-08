@@ -2,12 +2,15 @@
 
 ### MCA Student | Backend & AI Enthusiast
 
-Hey! I’m currently learning backend development and artificial intelligence by building small to medium level projects.  
-I enjoy exploring how APIs, computer vision and LLM based systems work, and I’m focused on improving my skills step by step.
+Hey! I’m an MCA student with a strong interest in backend development and artificial intelligence.  
+I enjoy learning how real-world applications are built — from designing REST APIs and backend logic to exploring AI-based systems like chatbots, computer vision applications, and document-based question answering tools.
+
+I like working on projects that help me understand how data flows through systems, how APIs connect applications, and how intelligent features can be added to software using machine learning and large language models.  
+I’m currently focused on building solid, production-style applications using Java, Python, Spring Boot, FastAPI and Android while continuing to grow my skills in AI and backend system design.
 
 - 🌍 I’m based in Kerala, India  
-- 🌱 I’m learning Spring Boot, FastAPI, Android, AI & Computer Vision  
-- 🤝 I’m open to collaborating on beginner-friendly projects and learning groups  
+- 🚀 Focused on backend development, AI, and Android  
+- 🤝 Open to collaborations and learning communities  
 
 ---
 
@@ -31,20 +34,12 @@ I enjoy exploring how APIs, computer vision and LLM based systems work, and I’
 
 ---
 
-## Projects
-
-• Educore AI Tutor – AI tutor that explains textbook images & PDFs  
-• QA RAG Chatbot – Document-based question answering chatbot  
-• PlanMyEvent – Spring Boot REST API for event planning  
-• Android Utility Apps – Torch, Location, Text-to-Speech, Database apps  
-• Java Swing Desktop Apps – Student and utility management systems  
-
----
-
 ## Socials
 
 <p>
-<a href="https://github.com/Shreishta04"><img src="https://skillicons.dev/icons?i=github" width="38"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/shreishta-manoj"><img src="https://skillicons.dev/icons?i=linkedin" width="38"/></a>
+<a href="https://github.com/Shreishta04"><img src="https://skillicons.dev/icons?i=github" width="36"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shreishta-manoj"><img src="https://skillicons.dev/icons?i=linkedin" width="36"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:shreishtamanoj04@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="36"/></a>
 </p>
