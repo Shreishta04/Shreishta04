@@ -1,5 +1,5 @@
 # Hi 👋 My name is Shreishta Manoj
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=6CA0DC&center=true&vCenter=true&width=600&lines=Learning+Backend+Development;Exploring+AI+and+LLMs;Spring+Boot+%7C+FastAPI+%7C+Android;Building+Projects+Step+by+Step" />
 </p>
 
