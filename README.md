@@ -1,12 +1,7 @@
-<h1 align="center">Hi 👋 I'm Shreishta Manoj</h1>
-<h3 align="center">MCA Student | Backend & AI Enthusiast</h3>
-
+# Hi 👋 My name is Shreishta Manoj
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=6CA0DC&center=true&vCenter=true&width=600&lines=Learning+Backend+Development;Exploring+AI+and+LLMs;Spring+Boot+%7C+FastAPI+%7C+Android;Building+Projects+Step+by+Step" />
 </p>
-
-
-# Hi 👋 My name is Shreishta Manoj
 
 ### MCA Student | Backend & AI Enthusiast
 
