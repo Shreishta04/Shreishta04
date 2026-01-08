@@ -17,19 +17,20 @@ I’m currently focused on building solid, production-style applications using J
 ## Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=spring"/>
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-<img src="https://skillicons.dev/icons?i=laravel"/>
-<img src="https://skillicons.dev/icons?i=opencv"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=sqlite"/>
-<img src="https://skillicons.dev/icons?i=html"/>
-<img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=java" width="42"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="42"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring" width="42"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" width="42"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" width="42"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" width="42"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="42"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="42"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" width="42"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" width="42"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="42"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="42"/>
 </p>
+
 
 ---
 
