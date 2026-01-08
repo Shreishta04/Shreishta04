@@ -21,7 +21,6 @@ I’m currently focused on building solid, production-style applications using J
 <img src="https://skillicons.dev/icons?i=python"/>
 <img src="https://skillicons.dev/icons?i=spring"/>
 <img src="https://skillicons.dev/icons?i=fastapi"/>
-<img src="https://skillicons.dev/icons?i=android"/>
 <img src="https://skillicons.dev/icons?i=laravel"/>
 <img src="https://skillicons.dev/icons?i=opencv"/>
 <img src="https://skillicons.dev/icons?i=git"/>
