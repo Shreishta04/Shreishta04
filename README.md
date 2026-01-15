@@ -2,15 +2,15 @@
 
 ### MCA Student | Backend & AI Enthusiast
 
-Hey! I’m an MCA student with a strong interest in backend development and artificial intelligence.  
-I enjoy learning how real-world applications are built — from designing REST APIs and backend logic to exploring AI-based systems like chatbots, computer vision applications, and document-based question answering tools.
+Hi! I’m an MCA student with a strong interest in backend development and artificial intelligence.
+I enjoy understanding how real-world applications are built — from designing REST APIs and backend logic to exploring AI-based systems like chatbots, computer vision applications, and document-based tools.
 
-I like working on projects that help me understand how data flows through systems, how APIs connect applications, and how intelligent features can be added to software using machine learning and large language models.  
-I’m currently focused on building solid, production-style applications using Java, Python, Spring Boot, FastAPI and Android while continuing to grow my skills in AI and backend system design.
+I like working on projects that help me understand how data flows through systems, how APIs connect applications, and how intelligent features can be integrated using machine learning and large language models.
+Currently, I’m focused on building clean, production-style applications using Java, Python, Spring Boot, FastAPI while continuing to strengthen my backend fundamentals and AI knowledge.
 
-- 🌍 I’m based in Kerala, India  
-- 🚀 Focused on backend development, AI, and Android  
-- 🤝 Open to collaborations and learning communities  
+🌍 Based in Kerala, India
+🚀 Interested in backend development, AI, and Android
+🤝 Open to collaborations and learning communities
 
 ---
 
