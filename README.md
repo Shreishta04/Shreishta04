@@ -9,7 +9,9 @@ I like working on projects that help me understand how data flows through system
 Currently, I’m focused on building clean, production-style applications using Java, Python, Spring Boot, FastAPI while continuing to strengthen my backend fundamentals and AI knowledge.
 
 🌍 Based in Kerala, India
+
 🚀 Interested in backend development, AI, and Android
+
 🤝 Open to collaborations and learning communities
 
 ---
